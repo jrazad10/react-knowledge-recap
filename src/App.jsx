@@ -1,5 +1,7 @@
 
 import './App.css'
+import Blogs from './Components/Blogs/Blogs'
+import Header from './Components/Header/Header'
 
 function App() {
 
@@ -7,8 +9,8 @@ function App() {
   return (
     <>
       
-      <h1 className='text-5xl font-semibold bg-green-300 rounded-2xl'>KNOWLEDGE IS POWER</h1>
-      
+      <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }
