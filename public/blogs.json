@@ -8,8 +8,8 @@
         "posted_date": "September 15, 2023",
         "reading_time": 5,
         "hashtags": [
-            "beginners",
-            "es6"
+            "#beginners",
+            "#es6"
         ]
     },
     {
@@ -21,9 +21,9 @@
         "posted_date": "August 28, 2023",
         "reading_time": 4,
         "hashtags": [
-            "javascript",
-            "coding",
-            "dev"
+            "#javascript",
+            "#coding",
+            "#dev"
         ]
     },
     {
@@ -35,8 +35,8 @@
         "posted_date": "July 10, 2023",
         "reading_time": 10,
         "hashtags": [
-            "mid_level",
-            "react"
+            "#mid_level",
+            "#react"
         ]
     },
     {
@@ -48,8 +48,8 @@
         "posted_date": "June 5, 2023",
         "reading_time": 9,
         "hashtags": [
-            "development",
-            "resources"
+            "#development",
+            "#resources"
         ]
     }
 ]
